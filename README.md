@@ -1,5 +1,7 @@
 # Arvind Yadav
 
+<img src="assets/arvind-yadav.jpg" alt="Arvind Yadav" width="220" />
+
 ### Political Research · Field Operations · Stakeholder Engagement · Business Growth
 
 **MBA, IIM Sirmaur | Founder, Cabin 19**
